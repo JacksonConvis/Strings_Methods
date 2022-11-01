@@ -82,6 +82,7 @@ public class StringLab {
 		}
 	}
 
+	// converts to camel case notation
 	public static void camelCase() {
 
 		String word = "camelcase";
